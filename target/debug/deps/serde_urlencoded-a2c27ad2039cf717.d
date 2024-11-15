@@ -1,0 +1,11 @@
+/home/tez/jat/projects/solutions/network_info/target/debug/deps/libserde_urlencoded-a2c27ad2039cf717.rmeta: /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/lib.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/de.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/mod.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/key.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/pair.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/part.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/tez/jat/projects/solutions/network_info/target/debug/deps/serde_urlencoded-a2c27ad2039cf717.d: /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/lib.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/de.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/mod.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/key.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/pair.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/part.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/lib.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/de.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/mod.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/key.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/pair.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/part.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/value.rs:

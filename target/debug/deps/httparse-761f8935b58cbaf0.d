@@ -1,0 +1,12 @@
+/home/tez/jat/projects/solutions/network_info/target/debug/deps/libhttparse-761f8935b58cbaf0.rmeta: /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/sse42.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/avx2.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/runtime.rs
+
+/home/tez/jat/projects/solutions/network_info/target/debug/deps/httparse-761f8935b58cbaf0.d: /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/sse42.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/avx2.rs /home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/runtime.rs
+
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/sse42.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/avx2.rs:
+/home/tez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/runtime.rs:
